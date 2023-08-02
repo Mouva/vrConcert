@@ -4,4 +4,6 @@ My final year music project, in which I have produced 8 minutes of music and a v
 
 Designed for Quest. Must be in developer mode, to run just move the apk onto your headset.
 
+For a full demo video of the experience, click here: https://youtu.be/MUq390M56yA
+
 ![Performance Space](./imgs/concert.png)
